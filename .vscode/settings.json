@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.6/bin/python3"
+    "python.pythonPath": "/Users/zouhongyu/Documents/FrontEnd&BackEnd/DjangoDev/env/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true
 }
